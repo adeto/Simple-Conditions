@@ -5,7 +5,9 @@ namespace _06.BonusScore
     class BonusScore
     {
         static void Main()
-        {
+        {   
+            //This solution will descibe how to calculate bonus score//
+
             var number = int.Parse(Console.ReadLine());
             var bonScore = 0.0;
 

@@ -10,7 +10,9 @@ namespace _07.SumSeconds
             var secondTime = int.Parse(Console.ReadLine());
             var thirdTime = int.Parse(Console.ReadLine());
 
-        
+            int result = (firstTime + secondTime + thirdTime) * 60;
+            Console.WriteLine(result);
+
         }
     }
 }
