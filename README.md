@@ -1,1 +1,3 @@
-# Exersice- reppo: Simple-Conditions
+# Exercise- reppo: Simple-Conditions
+This project will contain...
+Repository made for exercise and testing.
